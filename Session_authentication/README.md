@@ -17,18 +17,15 @@ Simple HTTP API for playing with `User` model.
 
 ## Setup
 
-``python
-$ pip3 install -r requirements.txt
-
-``
+```python
+$pip3 install -r requirements.txt
+```
 
 ## Run
 
-``python
-
-$ API_HOST=0.0.0.0 API_PORT=5000 python3 -m api.v1.app
-
-``
+```python
+$API_HOST=0.0.0.0 API_PORT=5000 python3 -m api.v1.app
+```
 
 ## Routes
 
